@@ -1,4 +1,4 @@
-# A template to run Machine Learning  (to predict appropriate reaction coordinates for metadynamics simulations) combined enhanced sampling MD (Metadynamics). The reaction coordinates is spanned by backbone distances and stacking distances of DNA hairpin (PDB ID 7vm9). 
+# A template to run Machine Learning combined MD  
 
 ## Overview
 
